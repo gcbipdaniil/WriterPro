@@ -1,0 +1,61 @@
+# WriterPro
+
+[English](#english) | [Русский](#русский)
+
+---
+
+<div id="english"></div>
+
+## WriterPro: A powerful desktop application for writers.
+
+No registrations, no subscriptions, no cloud. Just a powerful, free tool that runs on your computer. Download the installer, install it, and start creating.
+
+<div align="center">
+  <a href="https://github.com/gcbipdaniil/WriterPro/releases">
+    <img src="https://img.shields.io/github/v/release/gcbipdaniil/WriterPro?style=for-the-badge&logo=electron&logoColor=white&label=DOWNLOAD%20LATEST%20VERSION&color=4A90E2" alt="Download Latest Version">
+  </a>
+</div>
+
+WriterPro is more than just a text editor; it's a complete environment for planning, writing, organizing, and analyzing your creative projects.
+
+### 🚀 Key Features
+
+-   **Project Navigator:** Structure your project with chapters and scenes, track storylines with color-coding, visualize your plot on a timeline, and brainstorm with mind maps.
+-   **Characters & Worldbuilding:** Create detailed profiles for characters, visualize their relationships, and build a database of your world's locations and important objects.
+-   **Powerful Text Editor:** Work in a distraction-free mode, use typewriter scrolling, get real-time word counts, and customize fonts and themes.
+-   **Inspiration Hub:** Search and save images from Pinterest, find atmospheric music with the built-in player, and keep notes attached to every scene.
+-   **Analytics & Goals:** Set and track writing goals, view your daily progress on charts, and automatically count mentions of your characters and locations.
+-   **Export & Backup:** Export your manuscript to **PDF, DOCX, and EPUB**. Create full project backups (`.wripro` files) that include all your text, notes, and media. The app also creates automatic local backups every 10 minutes.
+
+### 📄 License
+
+This project is distributed under the MIT License.
+
+---
+
+<div id="русский"></div>
+
+## WriterPro: Мощное десктопное приложение для писателей.
+
+Без регистраций, без подписок, без облака. Просто мощный и бесплатный инструмент, который работает на вашем компьютере. Скачал, установил и пользуйся.
+
+<div align="center">
+  <a href="https://github.com/gcbipdaniil/WriterPro/releases">
+    <img src="https://img.shields.io/github/v/release/gcbipdaniil/WriterPro?style=for-the-badge&logo=electron&logoColor=white&label=СКАЧАТЬ%20ПОСЛЕДНЮЮ%20ВЕРСИЮ&color=4A90E2" alt="Скачать последнюю версию">
+  </a>
+</div>
+
+WriterPro — это больше, чем просто текстовый редактор. Это полноценная среда для планирования, написания, организации и анализа ваших творческих проектов.
+
+### 🚀 Основной функционал
+
+-   **Навигатор проекта:** Структурируйте проект по главам и сценам, отслеживайте сюжетные линии с помощью цвета, визуализируйте хронологию на временной шкале и проводите мозговой штурм с интеллект-картами.
+-   **Персонажи и мир:** Создавайте детальные анкеты персонажей, визуализируйте их взаимоотношения и ведите базу данных локаций и важных объектов вашего мира.
+-   **Мощный редактор:** Работайте в режиме концентрации, используйте режим пишущей машинки, получайте статистику по тексту в реальном времени, настраивайте шрифты и темы оформления.
+-   **Центр вдохновения:** Ищите и сохраняйте изображения из Pinterest, находите атмосферную музыку со встроенным плеером и храните заметки, привязанные к каждой сцене.
+-   **Аналитика и цели:** Устанавливайте и отслеживайте писательские цели, просматривайте ежедневный прогресс на графиках и автоматически считайте упоминания персонажей и локаций.
+-   **Экспорт и бэкапы:** Экспортируйте рукопись в **PDF, DOCX и EPUB**. Создавайте полные резервные копии проекта (файлы `.wripro`), включающие весь текст, заметки и медиа. Приложение также автоматически делает локальные бэкапы каждые 10 минут.
+
+### 📄 Лицензия
+
+Этот проект распространяется по лицензии MIT.
