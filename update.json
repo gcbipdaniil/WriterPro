@@ -2,7 +2,7 @@
   "latest": "2.2.2",
   "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/v2.2.2/WriterPro-Setup-2.2.2.exe",
   "history": [
-    {
+{
       "version": "2.2.2",
       "releaseDate": "2025-11-12",
       "notes": {
@@ -10,10 +10,10 @@
           "🔧 Исправление: Поработали над оптимизацией и скоростью приложения."
         ],
         "en": [
-          "🔧 Fix: We worked on the optimization and speed of the app.",
+          "🔧 Fix: We worked on the optimization and speed of the app."
         ]
       }
-    },    
+    },  
     {
       "version": "2.2.1",
       "releaseDate": "2025-11-12",
