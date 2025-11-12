@@ -1,7 +1,23 @@
 {
-  "latest": "2.2.2",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/writer/WriterPro-Setup-2.2.2.exe",
+  "latest": "2.2.3",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-Setup-2.2.3/WriterPro-Setup-2.2.3.exe",
   "history": [
+    {
+      "version": "2.2.3",
+      "releaseDate": "2025-11-13",
+      "notes": {
+        "ru": [
+          "✨ Новая вкладка «Имена» в профиле персонажа для управления склонениями и псевдонимами.",
+          "✨ Добавлена функция автоматического склонения имён, которая помогает генерировать падежные формы.",
+          "🚀 Улучшен анализатор упоминаний: теперь он находит персонажей по всем формам имени, главному псевдониму и всем склонениям, что делает статистику значительно точнее."
+        ],
+        "en": [
+          "✨ New 'Names' tab in the character profile to manage declensions and nicknames.",
+          "✨ Added an automatic name declension feature to help generate case forms.",
+          "🚀 Improved the mention analyzer: it now finds characters by all name forms, the main nickname, and all declensions, making the statistics much more accurate."
+        ]
+      }
+    },
     {
       "version": "2.2.2",
       "releaseDate": "2025-11-12",
