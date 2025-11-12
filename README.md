@@ -41,7 +41,7 @@ This project is distributed under the MIT License.
 
 <div align="center">
   <a href="https://github.com/gcbipdaniil/WriterPro/releases">
-    <img src="https://img.shields.io/github/v/release/gcbipdaniil/WriterPro?style=for-the-badge&logo=electron&logoColor=white&label=СКАЧАТЬ%20ПОСЛЕДНЮЮ%20ВЕРСИЮ&color=4A90E2" alt="Скачать последнюю версию">
+    <img src="https://img.shields.io/github/v/release/gcbipdaniil/WriterPro?style=for-the-badge&logo=electron&logoColor=white&label=DOWNLOAD%20LATEST%20VERSION&color=4A90E2" alt="Download Latest Version">
   </a>
 </div>
 
