@@ -1,7 +1,21 @@
 {
-  "latest": "2.2.5",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.2.5/WriterPro-Setup-2.2.5.exe",
+  "latest": "2.2.6",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.2.6/WriterPro-Setup-2.2.6.exe",
   "history": [
+    {
+      "version": "2.2.6",
+      "releaseDate": "2025-11-14",
+      "notes": {
+        "ru": [
+          "✨ Обновлен дизайн главной страницы (списка проектов) для более современного и удобного вида.",
+          "🔧 Устранены различные мелкие ошибки и улучшена общая производительность приложения."
+        ],
+        "en": [
+          "✨ Updated the main page (project list) with a more modern and user-friendly design.",
+          "🔧 Fixed various minor bugs and improved overall application performance."
+        ]
+      }
+    },
     {
       "version": "2.2.5",
       "releaseDate": "2025-11-14",
