@@ -1,7 +1,25 @@
 {
-  "latest": "2.2.4",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.2.4/WriterPro-Setup-2.2.4.exe",
+  "latest": "2.2.5",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.2.5/WriterPro-Setup-2.2.5.exe",
   "history": [
+    {
+      "version": "2.2.5",
+      "releaseDate": "2025-11-14",
+      "notes": {
+        "ru": [
+          "⚠️ Важно: Перед обновлением обязательно сделайте резервную копию ваших проектов! (Проект -> Экспортировать проект).",
+          "✨ Новое: Добавлена система проверки и активации лицензии.",
+          "🔧 Исправление: Улучшена работа функции автосклонения имен.",
+          "🔧 Исправление: Устранены мелкие ошибки и повышена стабильность."
+        ],
+        "en": [
+          "⚠️ **Important: Please back up your projects before updating!** (Project -> Export Project).",
+          "✨ New: Added a license verification and activation system.",
+          "🔧 Fix: Improved the name auto-declension feature.",
+          "🔧 Fix: Addressed minor bugs and improved stability."
+        ]
+      }
+    },
     {
       "version": "2.2.4",
       "releaseDate": "2025-11-12",
