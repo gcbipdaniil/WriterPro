@@ -31,6 +31,25 @@ WriterPro is more than just a text editor; it's a complete environment for plann
 
 This project is distributed under the MIT License.
 
+### 📷 Screenshots
+
+<details>
+<summary>🖼️ Посмотреть скриншоты (5 изображений)</summary>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/6d3e2917-9973-46c3-9248-37ba01ee44e6" width="49%" />
+<img src="https://github.com/user-attachments/assets/39e5a7a3-ef33-463f-9ff3-b7a96ec50036" width="49%" />
+<img src="https://github.com/user-attachments/assets/1292bcd4-4985-4d42-95a0-a1d663e4dc43" width="49%" />
+<img src="https://github.com/user-attachments/assets/2a5ed475-3d1a-4e00-95aa-5ff0286e3b80" width="49%" />
+<img src="https://github.com/user-attachments/assets/f816f68b-2786-48ea-97b1-85fcbf8750d2" width="70%" />
+
+</details>
+
+
+
+
+
 ---
 
 <div id="русский"></div>
