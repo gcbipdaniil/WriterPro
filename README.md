@@ -8,7 +8,7 @@
 
 ## WriterPro: A powerful desktop application for writers.
 
-No registrations, no subscriptions, no cloud. Just a powerful, free tool that runs on your computer. Download the installer, install it, and start creating.
+No registrations, no cloud. Just a powerful, tool that runs on your computer. Download the installer, install it, and start creating.
 
 <div align="center">
   <a href="https://github.com/gcbipdaniil/WriterPro/releases">
@@ -37,7 +37,7 @@ This project is distributed under the MIT License.
 
 ## WriterPro: Мощное десктопное приложение для писателей.
 
-Без регистраций, без подписок, без облака. Просто мощный и бесплатный инструмент, который работает на вашем компьютере. Скачал, установил и пользуйся.
+Без регистраций, без облака. Просто мощный и бесплатный инструмент, который работает на вашем компьютере. Скачал, установил и пользуйся.
 
 <div align="center">
   <a href="https://github.com/gcbipdaniil/WriterPro/releases">
