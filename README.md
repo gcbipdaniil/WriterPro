@@ -1,6 +1,6 @@
 # WriterPro
 
-[English](#english) | [Русский](#русский)
+[English](#english) | [Русский](#русский) | [Polski](#polski)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## WriterPro: A powerful desktop application for writers.
 
-No registrations, no cloud. Just a powerful, tool that runs on your computer. Download the installer, install it, and start creating.
+No registrations, no cloud. Just a powerful tool that runs on your computer. Download the installer, install it, and start creating.
 
 <div align="center">
   <a href="https://github.com/gcbipdaniil/WriterPro/releases">
@@ -45,11 +45,6 @@ This project is distributed under the MIT License.
 <img src="https://github.com/user-attachments/assets/f816f68b-2786-48ea-97b1-85fcbf8750d2" width="70%" />
 
 </details>
-
-
-
-
-
 
 ---
 
@@ -95,3 +90,46 @@ WriterPro — это больше, чем просто текстовый ред
 
 </details>
 
+---
+
+<div id="polski"></div>
+
+## WriterPro: Potężna aplikacja desktopowa dla pisarzy.
+
+Bez rejestracji, bez chmury. Po prostu potężne narzędzie, które działa na Twoim komputerze. Pobierz instalator, zainstaluj i zacznij tworzyć.
+
+<div align="center">
+  <a href="https://github.com/gcbipdaniil/WriterPro/releases">
+    <img src="https://img.shields.io/github/v/release/gcbipdaniil/WriterPro?style=for-the-badge&logo=electron&logoColor=white&label=POBIERZ%20NAJNOWSZĄ%20WERSJĘ&color=4A90E2" alt="Pobierz najnowszą wersję">
+  </a>
+</div>
+
+WriterPro to coś więcej niż tylko edytor tekstu; to kompletne środowisko do planowania, pisania, organizowania i analizowania Twoich projektów twórczych.
+
+### 🚀 Kluczowe funkcje
+
+-   **Nawigator projektu:** Strukturyzuj swój projekt za pomocą rozdziałów i scen, śledź wątki fabularne za pomocą kolorów, wizualizuj fabułę na osi czasu i przeprowadzaj burze mózgów za pomocą map myśli.
+-   **Postacie i budowanie świata:** Twórz szczegółowe profile postaci, wizualizuj ich relacje i buduj bazę danych lokacji oraz ważnych obiektów Twojego świata.
+-   **Potężny edytor tekstu:** Pracuj w trybie bez rozpraszania, używaj przewijania w stylu maszyny do pisania, uzyskuj liczbę słów w czasie rzeczywistym oraz dostosowuj czcionki i motywy.
+-   **Centrum inspiracji:** Wyszukuj i zapisuj obrazy z Pinterest, znajduj nastrojową muzykę dzięki wbudowanemu odtwarzaczowi i przechowuj notatki przypisane do każdej sceny.
+-   **Analityka i cele:** Ustawiaj i śledź cele pisarskie, przeglądaj codzienne postępy na wykresach i automatycznie zliczaj wzmianki o postaciach i lokacjach.
+-   **Eksport i kopie zapasowe:** Eksportuj swój manuskrypt do **PDF, DOCX i EPUB**. Twórz pełne kopie zapasowe projektu (pliki `.wripro`), które zawierają cały tekst, notatki i media. Aplikacja tworzy również automatyczne lokalne kopie zapasowe co 10 minut.
+
+### 📄 Licencja
+
+Ten projekt jest rozpowszechniany na licencji MIT.
+
+### 📷 Zrzuty ekranu
+
+<details>
+<summary>🖼️ Zobacz zrzuty ekranu (5 obrazów)</summary>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/6d3e2917-9973-46c3-9248-37ba01ee44e6" width="49%" />
+<img src="https://github.com/user-attachments/assets/39e5a7a3-ef33-463f-9ff3-b7a96ec50036" width="49%" />
+<img src="https://github.com/user-attachments/assets/1292bcd4-4985-4d42-95a0-a1d663e4dc43" width="49%" />
+<img src="https://github.com/user-attachments/assets/2a5ed475-3d1a-4e00-95aa-5ff0286e3b80" width="49%" />
+<img src="https://github.com/user-attachments/assets/f816f68b-2786-48ea-97b1-85fcbf8750d2" width="70%" />
+
+</details>
