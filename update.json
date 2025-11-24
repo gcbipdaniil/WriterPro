@@ -1,7 +1,22 @@
 {
-  "latest": "2.2.7",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.2.7/WriterPro-Setup-2.2.7.exe",
+  "latest": "2.2.8",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.2.8/WriterPro-Setup-2.2.8.exe",
   "history": [
+    {
+      "version": "2.2.8",
+      "releaseDate": "2025-11-26",
+      "notes": {
+        "ru": [
+          "✨ Добавлена полная локализация на Польский язык."
+        ],
+        "en": [
+          "✨ Added full Polish localization."
+        ],
+        "pl": [
+          "✨ Dodano pełną polską lokalizację."
+        ]
+      }
+    },
     {
       "version": "2.2.7",
       "releaseDate": "2025-11-25",
@@ -17,6 +32,12 @@
           "✨ Improved search UI: added convenient result counters and updated card design.",
           "🔧 Distraction Free mode fixed: removed the extra top bar padding and added a floating exit button.",
           "🔧 Fixed a navigation bug where projects would occasionally open at the previous search result location."
+        ],
+        "pl": [
+          "🚀 Wyszukiwanie globalne zostało całkowicie przebudowane: dodano filtry (Tekst, Postacie, Lokacje, Obiekty) i opcje sortowania.",
+          "✨ Ulepszony interfejs wyszukiwania: dodano wygodne liczniki wyników i zaktualizowano wygląd kart.",
+          "🔧 Naprawiono tryb „Bez rozpraszania”: usunięto zbędny pasek u góry i dodano pływający przycisk wyjścia.",
+          "🔧 Naprawiono błąd nawigacji, przez który projekt mógł otwierać się w miejscu poprzedniego wyszukiwania."
         ]
       }
     },
@@ -25,12 +46,16 @@
       "releaseDate": "2025-11-14",
       "notes": {
         "ru": [
-          "✨ Обновлен дизайн главной страницы (списка проектов) для более современного и удобного вида.",
+          "🎨 Обновлен дизайн главной страницы (списка проектов) для более современного и удобного вида.",
           "🔧 Устранены различные мелкие ошибки и улучшена общая производительность приложения."
         ],
         "en": [
-          "✨ Updated the main page (project list) with a more modern and user-friendly design.",
+          "🎨 Updated the main page (project list) with a more modern and user-friendly design.",
           "🔧 Fixed various minor bugs and improved overall application performance."
+        ],
+        "pl": [
+          "🎨 Zaktualizowano wygląd strony głównej (listy projektów), nadając jej nowocześniejszy i bardziej przyjazny charakter.",
+          "🔧 Naprawiono różne drobne błędy i poprawiono ogólną wydajność aplikacji."
         ]
       }
     },
@@ -45,10 +70,16 @@
           "🔧 Исправление: Устранены мелкие ошибки и повышена стабильность."
         ],
         "en": [
-          "⚠️ **Important: Please back up your projects before updating!** (Project -> Export Project).",
+          "⚠️ Important: Please back up your projects before updating! (Project -> Export Project).",
           "✨ New: Added a license verification and activation system.",
           "🔧 Fix: Improved the name auto-declension feature.",
           "🔧 Fix: Addressed minor bugs and improved stability."
+        ],
+        "pl": [
+          "⚠️ Ważne: Przed aktualizacją wykonaj kopię zapasową swoich projektów! (Projekt -> Eksportuj projekt).",
+          "✨ Nowość: Dodano system weryfikacji i aktywacji licencji.",
+          "🔧 Poprawka: Ulepszono działanie funkcji automatycznej odmiany imion.",
+          "🔧 Poprawka: Usunięto drobne błędy i zwiększono stabilność."
         ]
       }
     },
@@ -61,9 +92,12 @@
         ],
         "en": [
           "🔧 Fix: We worked on the optimization and speed of the app."
+        ],
+        "pl": [
+          "🔧 Poprawka: Pracowaliśmy nad optymalizacją i szybkością działania aplikacji."
         ]
       }
-    },    
+    },
     {
       "version": "2.2.3",
       "releaseDate": "2025-11-13",
@@ -71,12 +105,17 @@
         "ru": [
           "✨ Новая вкладка «Имена» в профиле персонажа для управления склонениями и псевдонимами.",
           "✨ Добавлена функция автоматического склонения имён, которая помогает генерировать падежные формы.",
-          "🚀 Улучшен анализатор упоминаний: теперь он находит персонажей по всем формам имени, главному псевдониму и всем склонениям, что делает статистику значительно точнее."
+          "🚀 Улучшен анализатор упоминаний: теперь он находит персонажей по всем формам имени, главному псевдониму и всем склонениям."
         ],
         "en": [
           "✨ New 'Names' tab in the character profile to manage declensions and nicknames.",
           "✨ Added an automatic name declension feature to help generate case forms.",
-          "🚀 Improved the mention analyzer: it now finds characters by all name forms, the main nickname, and all declensions, making the statistics much more accurate."
+          "🚀 Improved the mention analyzer: it now finds characters by all name forms, the main nickname, and all declensions."
+        ],
+        "pl": [
+          "✨ Nowa zakładka „Imiona” w profilu postaci do zarządzania odmianami i przydomkami.",
+          "✨ Dodano funkcję automatycznej odmiany imion, która pomaga generować formy przypadków.",
+          "🚀 Ulepszono analizator wzmianek: teraz znajduje postacie po wszystkich formach imienia, głównym przydomku i wszystkich odmianach."
         ]
       }
     },
@@ -89,6 +128,9 @@
         ],
         "en": [
           "🔧 Fix: We worked on the optimization and speed of the app."
+        ],
+        "pl": [
+          "🔧 Poprawka: Pracowaliśmy nad optymalizacją i szybkością działania aplikacji."
         ]
       }
     },
@@ -98,13 +140,18 @@
       "notes": {
         "ru": [
           "🚀 Улучшение: Приложение теперь запоминает размер и положение окна между сессиями.",
-          "✨ Новая функция: Добавлена система автоматической проверки обновлений, чтобы вы всегда пользовались последней версией!",
+          "✨ Новая функция: Добавлена система автоматической проверки обновлений.",
           "🔧 Исправление: Небольшие правки производительности и оптимизация запуска."
         ],
         "en": [
           "🚀 Improvement: The application now remembers its window size and position between sessions.",
-          "✨ New Feature: Added an automatic update checking system to ensure you always have the latest version!",
+          "✨ New Feature: Added an automatic update checking system.",
           "🔧 Fix: Minor performance tweaks and startup optimization."
+        ],
+        "pl": [
+          "🚀 Ulepszenie: Aplikacja zapamiętuje teraz rozmiar i położenie okna między sesjami.",
+          "✨ Nowa funkcja: Dodano system automatycznego sprawdzania aktualizacji.",
+          "🔧 Poprawka: Drobne poprawki wydajności i optymalizacja uruchamiania."
         ]
       }
     },
@@ -121,6 +168,11 @@
           "✨ New Feature: Implemented full project export and import in the .wripro format, including all media files and notes.",
           "🚀 Improvement: Added PDF export options (page numbers, headers, footers).",
           "🚀 Improvement: Optimized EPUB export for better e-reader compatibility."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Zaimplementowano pełny eksport i import projektu w formacie .wripro, w tym wszystkie pliki multimedialne i notatki.",
+          "🚀 Ulepszenie: Dodano opcje eksportu do PDF (numery stron, nagłówki, stopki).",
+          "🚀 Ulepszenie: Zoptymalizowano eksport do EPUB dla lepszej kompatybilności z czytnikami."
         ]
       }
     },
@@ -135,6 +187,10 @@
         "en": [
           "🔧 Fix: Resolved an issue where the onboarding could reappear for some users.",
           "🔧 Fix: Fixed a bug with the real-time word counter when pasting large amounts of text."
+        ],
+        "pl": [
+          "🔧 Poprawka: Rozwiązano problem, przez który samouczek mógł pojawiać się ponownie u niektórych użytkowników.",
+          "🔧 Poprawka: Naprawiono błąd licznika słów w czasie rzeczywistym przy wklejaniu dużych ilości tekstu."
         ]
       }
     },
@@ -149,6 +205,10 @@
         "en": [
           "✨ New Feature: Added an interactive onboarding tutorial to introduce new users to all of WriterPro's features.",
           "🚀 Improvement: Added tooltips for all icons in the navigator."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Dodano interaktywny samouczek wprowadzający, który zapoznaje nowych użytkowników ze wszystkimi funkcjami WriterPro.",
+          "🚀 Ulepszenie: Dodano podpowiedzi dla wszystkich ikon w nawigatorze."
         ]
       }
     },
@@ -157,16 +217,19 @@
       "releaseDate": "2025-11-10",
       "notes": {
         "ru": [
-          "🎨 ГЛОБАЛЬНЫЙ РЕДИЗАЙН: Полностью переработан интерфейс приложения! Новые цвета, шрифты и иконки для лучшего пользовательского опыта.",
+          "🎨 ГЛОБАЛЬНЫЙ РЕДИЗАЙН: Полностью переработан интерфейс приложения! Новые цвета, шрифты и иконки.",
           "✨ Новая функция: Добавлен 'Режим чтения' для комфортной вычитки текста без отвлекающих элементов.",
-          "✨ Новая функция: Добавлены новые темы оформления редактора: 'Nord' и 'Solarized'.",
           "🚀 Улучшение: Переработана панель навигации для более быстрого доступа к разделам."
         ],
         "en": [
-          "🎨 GLOBAL REDESIGN: The application interface has been completely reworked! New colors, fonts, and icons for a better user experience.",
+          "🎨 GLOBAL REDESIGN: The application interface has been completely reworked! New colors, fonts, and icons.",
           "✨ New Feature: Added 'Reading Mode' for comfortable proofreading without distractions.",
-          "✨ New Feature: Added new editor themes: 'Nord' and 'Solarized'.",
           "🚀 Improvement: The navigation panel has been redesigned for faster access to sections."
+        ],
+        "pl": [
+          "🎨 GLOBALNA ZMIANA DESIGNU: Interfejs aplikacji został całkowicie przebudowany! Nowe kolory, czcionki i ikony.",
+          "✨ Nowa funkcja: Dodano „Tryb czytania” do wygodnej korekty tekstu bez elementów rozpraszających.",
+          "🚀 Ulepszenie: Przebudowano panel nawigacyjny dla szybszego dostępu do sekcji."
         ]
       }
     },
@@ -176,13 +239,15 @@
       "notes": {
         "ru": [
           "✨ Новая функция: Добавлена функция 'Найти и заменить' в текстовом редакторе.",
-          "🚀 Улучшение: Теперь можно назначать горячие клавиши для основных действий (сохранение, фокус-режим).",
           "🚀 Оптимизация: Уменьшено потребление памяти при работе с текстами более 100 000 слов."
         ],
         "en": [
           "✨ New Feature: Added 'Find and Replace' functionality in the text editor.",
-          "🚀 Improvement: You can now assign hotkeys for main actions (save, focus mode).",
           "🚀 Optimization: Reduced memory consumption when working with texts over 100,000 words."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Dodano funkcję „Znajdź i zamień” w edytorze tekstu.",
+          "🚀 Optymalizacja: Zmniejszono zużycie pamięci podczas pracy z tekstami powyżej 100 000 słów."
         ]
       }
     },
@@ -191,12 +256,13 @@
       "releaseDate": "2025-11-09",
       "notes": {
         "ru": [
-          "✨ Новая функция: Появились 'Карты мыслей' (Mind Maps) для визуального планирования идей.",
-          "🚀 Улучшение: Теперь узлы в Картах мыслей можно связывать с карточками персонажей и локаций."
+          "✨ Новая функция: Появились 'Карты мыслей' (Mind Maps) для визуального планирования идей."
         ],
         "en": [
-          "✨ New Feature: Introduced 'Mind Maps' for visual planning of ideas.",
-          "🚀 Improvement: Nodes in Mind Maps can now be linked to character and location cards."
+          "✨ New Feature: Introduced 'Mind Maps' for visual planning of ideas."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Wprowadzono „Mapy myśli” do wizualnego planowania pomysłów."
         ]
       }
     },
@@ -205,12 +271,13 @@
       "releaseDate": "2025-11-08",
       "notes": {
         "ru": [
-          "✨ Новая функция: Добавлены 'Сюжетные линии' с цветовой маркировкой и 'Временная шкала' для визуализации хронологии.",
-          "🚀 Улучшение: Добавлена возможность фильтрации сцен по сюжетной линии в навигаторе."
+          "✨ Новая функция: Добавлены 'Сюжетные линии' с цветовой маркировкой и 'Временная шкала' для визуализации хронологии."
         ],
         "en": [
-          "✨ New Feature: Added 'Storylines' with color-coding and a 'Timeline' for visualizing chronology.",
-          "🚀 Improvement: Added the ability to filter scenes by storyline in the navigator."
+          "✨ New Feature: Added 'Storylines' with color-coding and a 'Timeline' for visualizing chronology."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Dodano „Wątki fabularne” z kodowaniem kolorami oraz „Oś czasu” do wizualizacji chronologii."
         ]
       }
     },
@@ -225,6 +292,10 @@
         "en": [
           "🔧 Fix: Fixed an authentication issue with Pinterest on some systems.",
           "🔧 Fix: Corrected track duration display in the music player."
+        ],
+        "pl": [
+          "🔧 Poprawka: Rozwiązano problem z uwierzytelnianiem w Pinterest na niektórych systemach.",
+          "🔧 Poprawka: Poprawiono wyświetlanie czasu trwania utworów w odtwarzaczu muzyki."
         ]
       }
     },
@@ -241,6 +312,11 @@
           "✨ New Feature: Integrated a music player with track search.",
           "✨ New Feature: Pinterest integration for finding and saving reference images.",
           "✨ New Feature: You can now create folders to organize saved images."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Zintegrowano odtwarzacz muzyki z wyszukiwaniem utworów.",
+          "✨ Nowa funkcja: Integracja z Pinterest do wyszukiwania i zapisywania obrazów referencyjnych.",
+          "✨ Nowa funkcja: Teraz można tworzyć foldery do organizowania zapisanych obrazów."
         ]
       }
     },
@@ -250,13 +326,15 @@
       "notes": {
         "ru": [
           "✨ Новая функция: Добавлена панель 'Аналитика' с отслеживанием целей написания.",
-          "✨ Новая функция: Добавлен график 'Ежедневный прогресс' для визуализации вашей продуктивности.",
           "✨ Новая функция: Теперь можно добавлять заметки к каждой сцене."
         ],
         "en": [
           "✨ New Feature: Added an 'Analytics' panel with writing goal tracking.",
-          "✨ New Feature: Added a 'Daily Progress' chart to visualize your productivity.",
           "✨ New Feature: You can now add notes to each scene."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Dodano panel „Analityka” ze śledzeniem celów pisarskich.",
+          "✨ Nowa funkcja: Teraz można dodawać notatki do każdej sceny."
         ]
       }
     },
@@ -273,6 +351,11 @@
           "✨ New Feature: Added 'Focus Mode' to concentrate on writing.",
           "✨ New Feature: 'Typewriter Mode' (active line always centered on screen).",
           "🚀 Improvement: Expanded text formatting options."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Dodano „Tryb skupienia” dla koncentracji na tekście.",
+          "✨ Nowa funkcja: „Tryb maszyny do pisania” (aktywna linia zawsze na środku ekranu).",
+          "🚀 Ulepszenie: Rozszerzono opcje formatowania tekstu."
         ]
       }
     },
@@ -287,6 +370,10 @@
         "en": [
           "✨ New Feature: Font customization! Choose any system-installed font for the editor.",
           "🚀 Improvement: Added the ability to drag and drop chapters and scenes in the navigator."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Dostosowywanie czcionek! Wybierz dowolną czcionkę systemową dla edytora.",
+          "🚀 Ulepszenie: Dodano możliwość przeciągania i upuszczania rozdziałów oraz scen w nawigatorze."
         ]
       }
     },
@@ -301,6 +388,10 @@
         "en": [
           "✨ New Feature: Implemented project export to PDF and DOCX. The application is now out of beta!",
           "✨ New Feature: Added detailed cards for 'Locations' and 'Objects'."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Zaimplementowano eksport projektów do PDF i DOCX. Aplikacja wychodzi z fazy beta!",
+          "✨ Nowa funkcja: Dodano szczegółowe karty dla „Lokacji” i „Obiektów”."
         ]
       }
     },
@@ -315,6 +406,10 @@
         "en": [
           "✨ New Feature: Added a 'Relationship Map' to visualize connections between characters.",
           "🚀 Improvement: Added more fields to character cards (goals, fears, habits)."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Dodano „Mapę relacji” do wizualizacji powiązań między postaciami.",
+          "🚀 Ulepszenie: Dodano więcej pól do kart postaci (cele, lęki, nawyki)."
         ]
       }
     },
@@ -327,6 +422,9 @@
         ],
         "en": [
           "✨ New Feature: Introduced 'Character' cards with biographies and the ability to add photos."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Wprowadzono karty „Postaci” z biografią i możliwością dodawania zdjęć."
         ]
       }
     },
@@ -341,6 +439,10 @@
         "en": [
           "✨ New Feature: Added 'Architecture' project structure for organizing chapters and scenes.",
           "✨ New Feature: Automatic local project backups every 10 minutes."
+        ],
+        "pl": [
+          "✨ Nowa funkcja: Dodano strukturę projektu „Architektura” do organizowania rozdziałów i scen.",
+          "✨ Nowa funkcja: Automatyczne tworzenie lokalnych kopii zapasowych projektu co 10 minut."
         ]
       }
     },
@@ -349,12 +451,16 @@
       "releaseDate": "2025-11-01",
       "notes": {
         "ru": [
-          "🎉 Первый публичный альфа-релиз WriterPro!",
+          "🚀 Первый публичный альфа-релиз WriterPro!",
           "✨ Основная функция: Базовый текстовый редактор с возможностью форматирования текста."
         ],
         "en": [
-          "🎉 First public alpha release of WriterPro!",
+          "🚀 First public alpha release of WriterPro!",
           "✨ Core Feature: A basic text editor with text formatting capabilities."
+        ],
+        "pl": [
+          "🚀 Pierwsze publiczne wydanie alfa WriterPro!",
+          "✨ Główna funkcja: Podstawowy edytor tekstu z możliwością formatowania."
         ]
       }
     }
