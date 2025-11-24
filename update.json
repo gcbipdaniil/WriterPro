@@ -1,7 +1,25 @@
 {
-  "latest": "2.2.6",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.2.6/WriterPro-Setup-2.2.6.exe",
+  "latest": "2.2.7",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.2.7/WriterPro-Setup-2.2.7.exe",
   "history": [
+    {
+      "version": "2.2.7",
+      "releaseDate": "2025-11-25",
+      "notes": {
+        "ru": [
+          "🔍 Полностью обновлен Глобальный поиск: добавлены фильтры (Текст, Персонажи, Локации, Объекты) и сортировка результатов.",
+          "✨ Улучшен интерфейс поиска: добавлены удобные счетчики найденного и обновлен дизайн карточек.",
+          "🧘‍♂️ Исправлен режим «Без отвлечений»: устранена серая полоса сверху и добавлена плавающая кнопка для удобного выхода.",
+          "🐛 Исправлена ошибка навигации, из-за которой проект мог открываться на месте предыдущего поиска."
+        ],
+        "en": [
+          "🔍 Global Search completely overhauled: added filters (Text, Characters, Locations, Objects) and sorting options.",
+          "✨ Improved search UI: added convenient result counters and updated card design.",
+          "🧘‍♂️ Distraction Free mode fixed: removed the extra top bar padding and added a floating exit button.",
+          "🐛 Fixed a navigation bug where projects would occasionally open at the previous search result location."
+        ]
+      }
+    },
     {
       "version": "2.2.6",
       "releaseDate": "2025-11-14",
