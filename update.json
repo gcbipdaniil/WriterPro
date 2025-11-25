@@ -1,7 +1,28 @@
 {
-  "latest": "2.2.8",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.2.8/WriterPro-Setup-2.2.8.exe",
+  "latest": "2.2.9",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.2.9/WriterPro-Setup-2.2.9.exe",
   "history": [
+    {
+      "version": "2.2.9",
+      "releaseDate": "2025-11-25",
+      "notes": {
+        "ru": [
+          "🎨 Полностью переработан экран загрузки: новый современный дизайн с визуализацией этапов запуска.",
+          "🔧 Улучшена стабильность проверки лицензии при нестабильном интернет-соединении.",
+          "🔧 Исправлена логика кнопки «Повторить»: теперь приложение корректно перезагружается для повторной проверки сети."
+        ],
+        "en": [
+          "🎨 Completely redesigned loading screen: new modern look with startup stage visualization.",
+          "🔧 Improved license verification stability during unstable internet connections.",
+          "🔧 Fixed 'Retry' button logic: the app now correctly reloads to re-verify network status."
+        ],
+        "pl": [
+          "🎨 Całkowicie przebudowany ekran ładowania: nowy nowoczesny wygląd z wizualizacją etapów uruchamiania.",
+          "🔧 Poprawiono stabilność weryfikacji licencji przy niestabilnym połączeniu internetowym.",
+          "🔧 Naprawiono logikę przycisku „Ponów”: aplikacja teraz poprawnie odświeża się w celu ponownej weryfikacji sieci."
+        ]
+      }
+    },
     {
       "version": "2.2.8",
       "releaseDate": "2025-11-25",
