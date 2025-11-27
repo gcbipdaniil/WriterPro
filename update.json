@@ -1,7 +1,31 @@
 {
-  "latest": "2.2.9",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.2.9/WriterPro-Setup-2.2.9.exe",
+  "latest": "2.3.0",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.3.0/WriterPro-Setup-2.3.0.exe",
   "history": [
+    {
+      "version": "2.3.0",
+      "releaseDate": "2025-11-27",
+      "notes": {
+        "ru": [
+          "🚀 Глобальное обновление экрана загрузки: новый премиальный дизайн в стиле «Big Tech» с фиксированными размерами.",
+          "🎨 Восстановлен строгий темный стиль верхней панели для идеального сочетания с окном лицензии.",
+          "✨ На экран загрузки добавлены кнопки управления окном (свернуть, закрыть).",
+          "🔧 Исправлена работа переключателей языка и темы в заголовке (устранена блокировка нажатий областью перетаскивания)."
+        ],
+        "en": [
+          "🚀 Major loading screen update: new premium 'Big Tech' style design with fixed dimensions.",
+          "🎨 Restored the strict dark style of the title bar for perfect consistency with the license window.",
+          "✨ Added window control buttons (minimize, close) to the loading screen.",
+          "🔧 Fixed language and theme toggles in the header (resolved issue with drag region blocking clicks)."
+        ],
+        "pl": [
+          "🚀 Globalna aktualizacja ekranu ładowania: nowy wygląd premium w stylu „Big Tech” ze stałymi wymiarami.",
+          "🎨 Przywrócono surowy ciemny styl paska tytułu dla idealnej spójności z oknem licencji.",
+          "✨ Dodano przyciski sterowania oknem (minimalizuj, zamknij) do ekranu ładowania.",
+          "🔧 Naprawiono przełączniki języka i motywu w nagłówku (rozwiązano problem z blokowaniem kliknięć)."
+        ]
+      }
+    },
     {
       "version": "2.2.9",
       "releaseDate": "2025-11-25",
