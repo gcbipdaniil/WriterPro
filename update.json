@@ -1,7 +1,34 @@
 {
-  "latest": "2.3.0",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.3.0/WriterPro-Setup-2.3.0.exe",
+  "latest": "2.3.1",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.3.1/WriterPro-Setup-2.3.1.exe",
   "history": [
+    {
+      "version": "2.3.1",
+      "releaseDate": "2025-11-30",
+      "notes": {
+        "ru": [
+          "🚀 Добавлена полная поддержка открытия файлов .wripro двойным кликом из проводника Windows.",
+          "🔧 Реализован режим одного окна (Single Instance): при попытке повторного запуска приложения фокус переводится на уже открытое окно.",
+          "✨ Внедрена система всплывающих уведомлений для процессов импорта, создания и удаления проектов.",
+          "🎨 Добавлена локализация для всех системных уведомлений (RU/EN/PL).",
+          "🔧 Исправлена критическая ошибка в модуле импорта, из-за которой файлы не загружались автоматически."
+        ],
+        "en": [
+          "🚀 Added full support for opening .wripro files via double-click from Windows Explorer.",
+          "🔧 Implemented Single Instance Lock: prevents multiple application instances and focuses the existing window instead.",
+          "✨ Introduced toast notifications for project import, creation, and deletion processes.",
+          "🎨 Added localization for all system notifications (RU/EN/PL).",
+          "🔧 Fixed a critical bug in the import module that prevented files from loading automatically."
+        ],
+        "pl": [
+          "🚀 Dodano pełną obsługę otwierania plików .wripro poprzez dwukrotne kliknięcie w eksploratorze Windows.",
+          "🔧 Wdrożono blokadę wielokrotnego uruchamiania (Single Instance): aplikacja przywołuje istniejące okno zamiast otwierać nowe.",
+          "✨ Wprowadzono powiadomienia systemowe dla procesów importu, tworzenia i usuwania projektów.",
+          "🎨 Dodano lokalizację dla wszystkich powiadomień systemowych (RU/EN/PL).",
+          "🔧 Naprawiono krytyczny błąd w module importu, który uniemożliwiał automatyczne ładowanie plików."
+        ]
+      }
+    },
     {
       "version": "2.3.0",
       "releaseDate": "2025-11-27",
