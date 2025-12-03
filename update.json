@@ -1,7 +1,28 @@
 {
-  "latest": "2.3.1",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.3.1/WriterPro-Setup-2.3.1.exe",
+  "latest": "2.3.2",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.3.2/WriterPro-Setup-2.3.2.exe",
   "history": [
+    {
+      "version": "2.3.2",
+      "releaseDate": "2025-12-03",
+      "notes": {
+        "ru": [
+          "🔧 Исправлена логика проверки лицензии: теперь кнопка \"Повторить\" на экране загрузки корректно перезапускает проверку ключа после восстановления интернета.",
+          "✨ Добавлена кнопка принудительного обновления статуса лицензии в окне активации (полезно при сбоях сети).",
+          "🎨 Обновлены тексты и переводы интерфейса лицензирования (RU/EN/PL)."
+        ],
+        "en": [
+          "🔧 Fixed license verification logic: the \"Retry\" button on the loading screen now correctly re-initiates the key check after internet connection is restored.",
+          "✨ Added a manual license status refresh button in the activation modal (useful during network glitches).",
+          "🎨 Updated activation interface texts and translations (RU/EN/PL)."
+        ],
+        "pl": [
+          "🔧 Naprawiono logikę weryfikacji licencji: przycisk \"Ponów\" na ekranie ładowania teraz poprawnie wznawia sprawdzanie klucza po przywróceniu połączenia internetowego.",
+          "✨ Dodano przycisk ręcznego odświeżania statusu licencji w oknie aktywacji (przydatne przy problemach z siecią).",
+          "🎨 Zaktualizowano teksty i tłumaczenia interfejsu aktywacji (RU/EN/PL)."
+        ]
+      }
+    },
     {
       "version": "2.3.1",
       "releaseDate": "2025-11-30",
