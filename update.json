@@ -1,7 +1,31 @@
 {
-  "latest": "2.3.2",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.3.2/WriterPro-Setup-2.3.2.exe",
+  "latest": "2.3.3",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.3.3/WriterPro-Setup-2.3.3.exe",
   "history": [
+    {
+      "version": "2.3.3",
+      "releaseDate": "2025-12-08",
+      "notes": {
+        "ru": [
+          "✨ Полностью обновлен дизайн Центра обновлений: добавлены анимации и новый интерфейс.",
+          "🚀 Добавлена детальная статистика при скачивании: скорость, размер и время до завершения.",
+          "🎨 Улучшена поддержка темной темы и адаптивность интерфейса обновлений.",
+          "🔧 Оптимизирована загрузка истории версий (Lazy Loading) для повышения производительности."
+        ],
+        "en": [
+          "✨ Completely redesigned Update Center: added animations and a new interface.",
+          "🚀 Added detailed download statistics: speed, file size, and estimated time remaining.",
+          "🎨 Improved dark mode support and update interface responsiveness.",
+          "🔧 Optimized version history loading (Lazy Loading) for better performance."
+        ],
+        "pl": [
+          "✨ Całkowicie przeprojektowane Centrum Aktualizacji: dodano animacje i nowy interfejs.",
+          "🚀 Dodano szczegółowe statystyki pobierania: prędkość, rozmiar i szacowany czas.",
+          "🎨 Ulepszono obsługę trybu ciemnego i responsywność interfejsu aktualizacji.",
+          "🔧 Zoptymalizowano ładowanie historii wersji (Lazy Loading) dla lepszej wydajności."
+        ]
+      }
+    },
     {
       "version": "2.3.2",
       "releaseDate": "2025-12-03",
