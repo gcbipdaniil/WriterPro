@@ -1,7 +1,34 @@
 {
-  "latest": "2.3.3",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.3.3/WriterPro-Setup-2.3.3.exe",
+  "latest": "2.3.4",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.3.4/WriterPro-Setup-2.3.4.exe",
   "history": [
+    {
+      "version": "2.3.4",
+      "releaseDate": "2025-12-09",
+      "notes": {
+        "ru": [
+          "🎨 Исправлен визуальный дефект верхней панели: теперь она корректно отображается поверх затемнения при открытии модальных окон.",
+          "✨ Добавлена плавная анимация при переключении языков интерфейса.",
+          "🚀 При клике на логотип теперь открывается информационное окно «О программе».",
+          "🔧 Исправлена работа внешних ссылок: GitHub и Telegram теперь открываются в браузере по умолчанию, а не внутри приложения.",
+          "✨ Добавлена кнопка быстрого перехода в Telegram разработчика."
+        ],
+        "en": [
+          "🎨 Fixed top bar visual defect: header now correctly stays above the backdrop when modals are open.",
+          "✨ Added smooth sliding animation for the language switcher.",
+          "🚀 Clicking the app logo now opens the \"About\" modal window.",
+          "🔧 Fixed external link behavior: GitHub and Telegram now open in your default browser instead of the app.",
+          "✨ Added a direct link button to the developer's Telegram."
+        ],
+        "pl": [
+          "🎨 Naprawiono defekt wizualny górnego paska: nagłówek wyświetla się teraz poprawnie nad tłem po otwarciu okien modalnych.",
+          "✨ Dodano płynną animację podczas przełączania języków interfejsu.",
+          "🚀 Kliknięcie w logo aplikacji otwiera teraz okno informacyjne „O programie”.",
+          "🔧 Naprawiono działanie linków zewnętrznych: GitHub i Telegram otwierają się teraz w domyślnej przeglądarce.",
+          "✨ Dodano przycisk szybkiego przejścia do Telegram dewelopera."
+        ]
+      }
+    },
     {
       "version": "2.3.3",
       "releaseDate": "2025-12-08",
