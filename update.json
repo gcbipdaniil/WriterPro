@@ -1,7 +1,22 @@
 {
-  "latest": "2.3.4",
-  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.3.4/WriterPro-Setup-2.3.4.exe",
+  "latest": "2.3.5",
+  "url": "https://github.com/gcbipdaniil/WriterPro/releases/download/WriterPro-2.3.5/WriterPro-Setup-2.3.5.exe",
   "history": [
+    {
+      "version": "2.3.5",
+      "releaseDate": "2025-12-11",
+      "notes": {
+        "ru": [
+          "🔧 Исправлена проблема с переходом по ссылкам в Telegram из окна лицензии."
+        ],
+        "en": [
+          "🔧 Fixed issue with Telegram link navigation from the license window."
+        ],
+        "pl": [
+          "🔧 Naprawiono problem z przechodzeniem do linków Telegram z okna licencji."
+        ]
+      }
+    },
     {
       "version": "2.3.4",
       "releaseDate": "2025-12-09",
